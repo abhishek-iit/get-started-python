@@ -4,6 +4,7 @@ import atexit
 import os
 import json
 
+# My first commit comment
 app = Flask(__name__, static_url_path='')
 
 db_name = 'mydb'
